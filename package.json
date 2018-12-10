@@ -1,6 +1,6 @@
 {
   "name": "png-size-reader",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Gets the size of the png image",
   "main": "index.js",
   "scripts": {
